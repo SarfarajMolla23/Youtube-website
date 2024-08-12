@@ -10,6 +10,7 @@ body {
   padding-right: 24px;
   background-color: rgb(248, 247, 247);
   font-family: roboto, arial;
+  opacity:0.6;
 }
 @media (min-width: 1200px) {
  body{
